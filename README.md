@@ -19,6 +19,4 @@ I would like to thank my teammates [Rashed AlHilal](https://github.com/R3Z96), a
 And a special thanks for [Kaggle](https://www.kaggle.com/ashishjangra27/face-mask-12k-images-dataset) for providing quality datasets for free.
 
 # Team Memebers
-1- [Amena AlSamah](https://github.com/Amena-ss)
-2- [Khalid AlRashed](https://github.com/KhalidSaleh98)
-3- [Rashed AlHilal](https://github.com/R3Z96)
+ [Amena AlSamah](https://github.com/Amena-ss), [Khalid AlRashed](https://github.com/KhalidSaleh98), and [Rashed AlHilal](https://github.com/R3Z96)
